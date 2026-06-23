@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Login from './components/Login';        // ./components/ add chey
-import Register from './components/Register';  // ./components/ add chey
-import Dashboard from './components/Dashboard'; // ./components/ add chey
+import Login from './components/Login';      
+import Register from './components/Register';  
+import Dashboard from './components/Dashboard'; 
 
 function App() {
   return (
